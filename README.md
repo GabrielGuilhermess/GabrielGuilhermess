@@ -51,7 +51,8 @@ An economic data dashboard with a Next.js frontend and NestJS backend, including
 
 A personal landing page focused on presentation, responsive design, and interface motion.
 
-**Stack:** Next.js 15, React, TypeScript, Tailwind CSS, and Framer Motion.
+**Stack:** Next.js 15, React, TypeScript, Tailwind CSS, and Framer Motion.  
+**Live:** https://landing-page-gabrielguilhermess-projects.vercel.app
 
 ## Engineering Principles
 
