@@ -12,7 +12,7 @@ I work with **Software Engineering**, focusing on architecture, quality, maintai
 
 My main interests include APIs, automation, testing, software architecture, and engineering practices that improve reliability and long-term maintainability.
 
-I also explore **AI-assisted software development** as a complementary tool for productivity, automation, and engineering workflows.
+I also explore **AI for Software Engineering**, including **RAG, context engineering, agent harnesses, and LLM-based development workflows**.
 
 ## Core Stack
 
