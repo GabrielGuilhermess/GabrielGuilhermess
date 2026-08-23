@@ -2,17 +2,19 @@
 
 # Gabriel Guilherme
 
-Desenvolvimento de software com **TypeScript**, **React / Next.js** e **Node.js / NestJS**.
+**Software Engineering** | TypeScript · Node.js · React · Next.js · NestJS
 
 </div>
 
-## Sobre
+## About
 
-Construo aplicações web e ferramentas voltadas a desenvolvimento e dados, combinando frontend, backend, testes e automação. Busco manter código legível, arquitetura clara e soluções simples de manter.
+I work with **Software Engineering**, focusing on architecture, quality, maintainability, and the sustainable evolution of software systems. I work across backend and frontend according to product needs, aiming for solutions that are clear, testable, and free from unnecessary complexity.
 
-Também estudo **IA aplicada ao desenvolvimento de software**, com foco em melhorar produtividade, contexto e qualidade no ciclo de engenharia.
+My main interests include APIs, automation, testing, software architecture, and engineering practices that improve reliability and long-term maintainability.
 
-## Stack principal
+I also explore **AI-assisted software development** as a complementary tool for productivity, automation, and engineering workflows.
+
+## Core Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,32 +31,32 @@ Também estudo **IA aplicada ao desenvolvimento de software**, com foco em melho
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-## Projetos em destaque
+## Featured Projects
 
 ### [Dev Toolbox](https://github.com/GabrielGuilhermess/dev-toolbox)
 
-Coleção de utilitários para rotinas de desenvolvimento, incluindo formatação de JSON, Base64, JWT, timestamps, UUID e validação/geração de CPF e CNPJ.
+A collection of utilities for common development workflows, including JSON formatting, Base64, JWT, timestamp and UUID tools, plus CPF and CNPJ generation and validation.
 
-**Stack:** React 19, TypeScript, Vite, Tailwind CSS e Vitest.  
-**Aplicação:** https://dev-toolbox-sigma.vercel.app
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS, and Vitest.  
+**Live:** https://dev-toolbox-sigma.vercel.app
 
 ### [Dashboard Economia Brasil](https://github.com/GabrielGuilhermess/dashboard-economia-brasil)
 
-Dashboard de dados econômicos com frontend em Next.js e backend em NestJS, incluindo visualizações com D3 e Recharts.
+An economic data dashboard with a Next.js frontend and NestJS backend, including data visualizations built with D3 and Recharts.
 
-**Stack:** Next.js, React, NestJS, TypeScript, D3, Recharts e Jest.  
-**Aplicação:** https://dashboard-economia-brasil.vercel.app
+**Stack:** Next.js, React, NestJS, TypeScript, D3, Recharts, and Jest.  
+**Live:** https://dashboard-economia-brasil.vercel.app
 
 ### [Personal Landing Page](https://github.com/GabrielGuilhermess/personal-landing-page)
 
-Landing page pessoal construída com foco em apresentação, responsividade e animações de interface.
+A personal landing page focused on presentation, responsive design, and interface motion.
 
-**Stack:** Next.js 15, React, TypeScript, Tailwind CSS e Framer Motion.
+**Stack:** Next.js 15, React, TypeScript, Tailwind CSS, and Framer Motion.
 
-## Engenharia
+## Engineering Principles
 
-- Arquitetura e separação clara de responsabilidades.
-- Testes automatizados e validação de comportamento.
-- Automação de rotinas repetitivas de desenvolvimento.
-- Evolução incremental sem complexidade desnecessária.
-- Uso de IA como ferramenta de apoio ao desenvolvimento, não como substituição dos fundamentos.
+- Clear architecture and separation of responsibilities.
+- Automated testing and behavior validation.
+- Automation of repetitive development workflows.
+- Incremental evolution without unnecessary complexity.
+- Maintainable solutions designed for long-term change.
